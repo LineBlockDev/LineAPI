@@ -6,8 +6,8 @@
 
     <groupId>net.lineblock.json</groupId>
     <artifactId>lineblock-json</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-
+    <version>1.0.0</version>
+    
     <parent>
         <groupId>net.lineblock.lineapi</groupId>
         <artifactId>lineblock-parent</artifactId>
