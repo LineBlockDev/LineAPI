@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lineblock-utils" />
+        <module name="lineblock-jobs" />
+        <module name="lineblock-data" />
+        <module name="lineblock-socket" />
+        <module name="lineblock-network" />
+        <module name="lineblock-json" />
+        <module name="lineblock-chat" />
+        <module name="lineblock-math" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spigot" target="1.5" />
+      <module name="Spigot-API" target="1.5" />
+      <module name="Spigot-Server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
